@@ -5,7 +5,6 @@ const Frame = styled.div`
     position: relative;
     width: 720px;
     height: 666px;
-    border: 1px solid black;
     margin: 2rem auto 0;
 `;
 

@@ -240,8 +240,8 @@ const BEN_CONFIG = [
 
 class App extends Component {
     state = {
-        currentBen: '1',
-        message: 'It was originally spelled "spalsh", but people said "splash" and it stuck.',
+        currentBen: '6',
+        message: '',
     };
 
     handleDropdownChange = (e) => {
