@@ -1,7 +1,7 @@
 {
-  "main.css": "/ben-memes/static/css/main.473bb065.chunk.css",
-  "main.js": "/ben-memes/static/js/main.d72252c0.chunk.js",
-  "main.js.map": "/ben-memes/static/js/main.d72252c0.chunk.js.map",
+  "main.css": "/ben-memes/static/css/main.0616e2e6.chunk.css",
+  "main.js": "/ben-memes/static/js/main.baa78bfb.chunk.js",
+  "main.js.map": "/ben-memes/static/js/main.baa78bfb.chunk.js.map",
   "static/js/1.e65221ca.chunk.js": "/ben-memes/static/js/1.e65221ca.chunk.js",
   "static/js/1.e65221ca.chunk.js.map": "/ben-memes/static/js/1.e65221ca.chunk.js.map",
   "runtime~main.js": "/ben-memes/static/js/runtime~main.ea70a9df.js",
@@ -17,8 +17,8 @@
   "static/media/ben-10.png": "/ben-memes/static/media/ben-10.adf539d9.png",
   "static/media/ben-11.png": "/ben-memes/static/media/ben-11.876bad6a.png",
   "static/media/ben-02.png": "/ben-memes/static/media/ben-02.a6aa7851.png",
-  "static/css/main.473bb065.chunk.css.map": "/ben-memes/static/css/main.473bb065.chunk.css.map",
+  "static/css/main.0616e2e6.chunk.css.map": "/ben-memes/static/css/main.0616e2e6.chunk.css.map",
   "index.html": "/ben-memes/index.html",
-  "precache-manifest.10f47b1234fc2b90e35d8e45ff13621a.js": "/ben-memes/precache-manifest.10f47b1234fc2b90e35d8e45ff13621a.js",
+  "precache-manifest.161558fbd34f3fdd5fc26751f18ecc08.js": "/ben-memes/precache-manifest.161558fbd34f3fdd5fc26751f18ecc08.js",
   "service-worker.js": "/ben-memes/service-worker.js"
 }

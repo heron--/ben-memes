@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/ben-memes/static/media/ben-05.454e5cd0.png"
   },
   {
-    "revision": "d72252c0f847961b67e3",
-    "url": "/ben-memes/static/css/main.473bb065.chunk.css"
+    "revision": "baa78bfb5083d240e516",
+    "url": "/ben-memes/static/css/main.0616e2e6.chunk.css"
   },
   {
     "revision": "e65221caff605e9b89b4",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/ben-memes/static/media/ben-04.17e23d13.png"
   },
   {
-    "revision": "d72252c0f847961b67e3",
-    "url": "/ben-memes/static/js/main.d72252c0.chunk.js"
+    "revision": "baa78bfb5083d240e516",
+    "url": "/ben-memes/static/js/main.baa78bfb.chunk.js"
   },
   {
     "revision": "a6cd324883a929bb2602e96c6d212f6e",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/ben-memes/static/media/ben-11.876bad6a.png"
   },
   {
-    "revision": "f92d615554f76c00bcef4b4ee9951011",
+    "revision": "b4951c09a7109ecb3189a10e6b45b592",
     "url": "/ben-memes/index.html"
   }
 ];
