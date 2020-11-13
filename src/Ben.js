@@ -18,9 +18,7 @@ const Ben = ({
     id ?
         (
             <Frame>
-                <MessageComponent>
-                    { message }
-                </MessageComponent>
+                <MessageComponent dangerouslySetInnerHTML={{ __html: message }} />
                 <BenComponent src={imgSrc} />
             </Frame>
         ) :
